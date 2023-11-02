@@ -1,6 +1,6 @@
 const imageContainer = document.getElementById("image-container");
 
-const apiKey = "Hc7l_ipG4lAl0B_ilkQxnNsvDCDANzLkSlHUY60h-bg";
+const apiKey = "qE-cTs_DByTJXCXlpukZZGYuHF5AKyAQZCFx7HcXqMQ";
 const apiUrl = "https://api.unsplash.com/photos/random";
 // https://api.unsplash.com/photos/random/?client_id=Hc7l_ipG4lAl0B_ilkQxnNsvDCDANzLkSlHUY60h-bg&count=10
 
